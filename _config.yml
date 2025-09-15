@@ -1,54 +1,35 @@
-title: Factory Thread Documentation
-description: Complete documentation for Factory Thread - your comprehensive development platform
-baseurl: "/factorythread-docs"
-url: "https://snicsolutions.github.io"
-
 remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+title: Factory Thread Docs
+description: The Factory Thread documentation
+logo: "/images/ft-logo.png"
+favicon_ico: "/images/favicon.ico"
 
 search_enabled: true
-search:
-  heading_level: 2
-  previews: 3
-  preview_words_before: 3
-  preview_words_after: 3
-
-heading_anchors: true
-
-nav_enabled: true
+color_scheme: dark
 
 aux_links:
   "Factory Thread":
     - "//factorythread.com"
-  "GitHub Repository":
+  "Docs Repository":
     - "//github.com/snicsolutions/factorythread-docs"
 
+# Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
-last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %l:%M %p"
+# Enable the side/mobile menu globally
+nav_enabled: true
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Footer last edited timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
 gh_edit_link: true
 gh_edit_repository: "https://github.com/snicsolutions/factorythread-docs"
 gh_edit_branch: "main"
 gh_edit_source: docs
 gh_edit_view_mode: "tree"
-
-footer_content: 'Copyright &copy; 2024 Factory Thread. Distributed by an <a href="https://github.com/snicsolutions/factorythread-docs/tree/main/LICENSE.txt">MIT license.</a>'
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
