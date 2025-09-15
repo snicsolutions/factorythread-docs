@@ -1,4 +1,4 @@
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 title: Factory Thread Docs
 description: The Factory Thread documentation
 baseurl: "/factorythread-docs"
