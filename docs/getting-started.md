@@ -120,12 +120,10 @@ Now that you have Factory Thread up and running:
 
 1. [Explore the Features]({{ site.baseurl }}{% link docs/features.md %}) - Learn about Factory Thread's powerful capabilities
 2. [API Reference]({{ site.baseurl }}{% link docs/api-reference.md %}) - Dive into the technical details
-3. [Examples]({{ site.baseurl }}{% link docs/examples.md %}) - See Factory Thread in action
 
 ## Getting Help
 
 If you encounter any issues:
 
-- Check the [FAQ]({{ site.baseurl }}{% link docs/faq.md %})
-- Browse existing [GitHub Issues](https://github.com/yourusername/factorythread/issues)
+- Browse existing [GitHub Issues](https://github.com/snicsolutions/factorythread/issues)
 - Create a new issue if you can't find a solution
