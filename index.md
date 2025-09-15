@@ -48,17 +48,3 @@ Factory Thread provides a complete development environment with powerful tools a
 ## About the project
 
 Factory Thread is built with modern developers in mind, providing the tools and features you need to build exceptional applications.
-
-### License
-
-Factory Thread is distributed by an [MIT license](https://github.com/yourusername/factorythread-docs/tree/main/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/yourusername/factorythread-docs#contributing).
-
-### Code of Conduct
-
-Factory Thread is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/yourusername/factorythread-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.

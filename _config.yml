@@ -12,8 +12,6 @@ color_scheme: dark
 aux_links:
   "Factory Thread":
     - "//factorythread.com"
-  "Docs Repository":
-    - "//github.com/snicsolutions/factorythread-docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
