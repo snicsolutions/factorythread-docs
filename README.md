@@ -4,7 +4,7 @@ This repository contains the official documentation for Factory Thread, built wi
 
 ## 🌐 Live Site
 
-Visit the documentation at: [https://yourusername.github.io/factorythread-docs](https://yourusername.github.io/factorythread-docs)
+Visit the documentation at: [https://snicsolutions.github.io/factorythread-docs](https://snicsolutions.github.io/factorythread-docs)
 
 ## 🛠 Local Development
 
@@ -16,17 +16,20 @@ Visit the documentation at: [https://yourusername.github.io/factorythread-docs](
 ### Setup
 
 1. Clone this repository:
+
    ```bash
-   git clone https://github.com/yourusername/factorythread-docs.git
+   git clone https://github.com/snicsolutions/factorythread-docs.git
    cd factorythread-docs
    ```
 
 2. Install dependencies:
+
    ```bash
    bundle install
    ```
 
 3. Run the local server:
+
    ```bash
    bundle exec jekyll serve
    ```
@@ -94,6 +97,6 @@ This documentation is distributed under the MIT License. See `LICENSE` for more 
 
 For issues or questions about the documentation:
 
-1. Check existing [GitHub Issues](https://github.com/yourusername/factorythread-docs/issues)
+1. Check existing [GitHub Issues](https://github.com/snicsolutions/factorythread-docs/issues)
 2. Create a new issue if needed
 3. For Factory Thread product support, visit the main repository

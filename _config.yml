@@ -1,6 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
 title: Factory Thread Docs
 description: The Factory Thread documentation
+baseurl: "/factorythread-docs"
+url: "https://snicsolutions.github.io"
 logo: "/images/ft-logo.png"
 favicon_ico: "/images/favicon.ico"
 
